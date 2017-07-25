@@ -1,0 +1,9 @@
+{
+  "name": "mesos-hello-world",
+  "description": "mesos-hello world",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "3.x"
+  },
+  "scripts": {"start": "node app.js"}
+}
